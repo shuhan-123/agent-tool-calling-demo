@@ -1,0 +1,22 @@
+{
+  "目标存在性": {
+    "hallucination_rate": "35.0%",
+    "description": "测试模型是否会捏造图中不存在的物体"
+  },
+  "计数与属性": {
+    "hallucination_rate": "55.0%",
+    "description": "测试模型对物体数量、颜色、大小等属性判断的准确性"
+  },
+  "OCR文本识别": {
+    "hallucination_rate": "30.0%",
+    "description": "测试模型识别图中中文文字的准确性"
+  },
+  "文化常识": {
+    "hallucination_rate": "23.3%",
+    "description": "测试模型对中国文化背景知识的理解"
+  },
+  "语言先验": {
+    "hallucination_rate": "63.3%",
+    "description": "测试模型是否会被问题措辞误导而忽略图片真实内容"
+  }
+}

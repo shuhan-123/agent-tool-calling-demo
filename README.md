@@ -19,3 +19,9 @@ Agent 自主决策调用哪个工具，无需人工指定，并对每次工具�
 ## 示例问题
 - "语言先验维度的幻觉率是多少？" → 自动调用 lookup_metric
 - "论文里是怎么设计对抗性测试集的？" → 自动调用 retrieve_doc
+## 运行效果展示
+![demo1](demo_screenshot1.png)
+![demo2](demo_screenshot2.png)
+![demo2](demo_screenshot2（2）.png)
+## 调用日志示例
+详见 agent_log.txt

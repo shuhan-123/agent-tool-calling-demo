@@ -1,0 +1,50 @@
+[2026-07-13 23:38:33] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-13 23:40:14] tool=retrieve_doc query='Qwen2-VL 2B 和 7B 哪个总体表现更好' success=True elapsed=100.51s
+[2026-07-13 23:50:17] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-13 23:50:57] tool=retrieve_doc query='为什么语言引导类幻觉率最高' success=True elapsed=34.78s
+[2026-07-13 23:51:11] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-13 23:51:12] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-13 23:51:15] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-13 23:51:18] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-13 23:51:20] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-13 23:57:04] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-13 23:57:07] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-13 23:57:10] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-13 23:57:12] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-13 23:57:14] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-13 23:57:22] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-13 23:57:29] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-13 23:57:31] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-13 23:57:32] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-13 23:57:34] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-13 23:57:35] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-14 00:00:09] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-14 00:00:11] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-14 00:00:13] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-14 00:00:16] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-14 00:00:17] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-14 00:00:56] tool=retrieve_doc query='为什么语言引导类幻觉率最高' success=True elapsed=31.45s
+[2026-07-14 00:01:11] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-14 00:01:16] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-14 00:01:19] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-14 00:01:22] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-14 00:01:23] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-14 00:04:28] tool=retrieve_doc query='Qwen2-VL 2B 和 7B 哪个总体表现更好？' success=True elapsed=28.66s
+[2026-07-14 00:08:07] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-14 00:08:08] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-14 00:08:10] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-14 00:08:11] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-14 00:08:12] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-14 00:08:59] tool=retrieve_doc query='为什么语言引导类幻觉率最高' success=True elapsed=35.69s
+[2026-07-14 00:09:09] tool=retrieve_doc query='Qwen2-VL 2B 和 7B 哪个总体表现更好' success=True elapsed=0.14s
+[2026-07-14 00:11:00] tool=lookup_metric query='总体表现' success=False elapsed=0.00s
+[2026-07-14 00:11:43] tool=retrieve_doc query='Qwen2-VL 2B 和 7B 哪个总体表现更好' success=True elapsed=32.00s
+[2026-07-14 00:13:39] tool=lookup_metric query='目标存在性' success=True elapsed=0.00s
+[2026-07-14 00:13:41] tool=lookup_metric query='计数与属性' success=True elapsed=0.00s
+[2026-07-14 00:13:43] tool=lookup_metric query='OCR文本识别' success=True elapsed=0.00s
+[2026-07-14 00:13:43] tool=lookup_metric query='文化常识' success=True elapsed=0.00s
+[2026-07-14 00:13:44] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
+[2026-07-14 00:14:20] tool=retrieve_doc query='为什么语言引导类幻觉率最高' success=True elapsed=32.30s
+[2026-07-14 00:14:26] tool=lookup_metric query='总体表现' success=False elapsed=0.00s
+[2026-07-14 00:14:27] tool=retrieve_doc query='Qwen2-VL 2B 和 7B 哪个总体表现更好' success=True elapsed=0.13s
+[2026-07-14 15:26:33] tool=lookup_metric query='语言先验' success=True elapsed=0.00s
